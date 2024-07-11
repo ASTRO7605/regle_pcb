@@ -1,5 +1,5 @@
 # Duplication du dépot («*forking*»)
-Sentez-vous à l'aise de dupliquer («fork») ce dépot («repository») en respectant la license (GPLv3).
+Sentez-vous à l'aise de dupliquer («fork») ce dépot («repository») en respectant la licence (GPLv3).
 
 # PRs
 Seuls seront considérés pour être fusionnés les correctifs visant à éliminer des erreurs dans le design, et il est possible que vos correctifs ne soient pas acceptés. Merci de votre compréhension!
