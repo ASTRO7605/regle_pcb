@@ -1,4 +1,6 @@
-LICENCE PUBLIQUE GÉNÉRALE GNU
+## AVIS: Cette licence est uniquement incluse à des fins informatives. Pour la licence officielle, voir le fichier [`LICENSE`](LICENSE).
+
+```LICENCE PUBLIQUE GÉNÉRALE GNU
 
 Version 3, du 29 juin 2007.
 
@@ -831,3 +833,4 @@ plus utile de permettre de lier des applications propriétaires avec la
 bibliothèque. Si c’est ce que vous voulez faire, utilisez la Licence
 Générale Publique Limitée GNU au lieu de cette Licence ; mais d’abord,
 veuillez lire <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+```
