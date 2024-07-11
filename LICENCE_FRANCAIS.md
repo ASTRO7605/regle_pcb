@@ -1,4 +1,4 @@
-## AVIS: Cette licence est uniquement incluse à des fins informatives. Pour la licence officielle, voir le fichier [`LICENSE`](LICENSE).
+## AVIS: Cette licence est uniquement incluse à des fins informatives. Pour la licence officielle (en anglais), voir le fichier [`LICENSE`](LICENSE).
 
 ```LICENCE PUBLIQUE GÉNÉRALE GNU
 
