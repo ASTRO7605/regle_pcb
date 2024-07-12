@@ -1,3 +1,13 @@
+```
+┌──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬┐
+│ 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30│
+│   ╭────╮                               RÈGLE PCB                                ╭─╮      │
+│   │    │                        ASTRO 7605—Nicolas Landucci                      A       │
+│   ╰────╯                               PCB RULER                               ╰   ╯     │
+│      11      10     9       8      7       6       5       4      3       2      1       │
+└──────┴───────┴──────┴───────┴──────┴───────┴───────┴───────┴──────┴───────┴──────┴───────┘
+```
+
 # Règle PCB
 Ce projet vise à créer une règle à l'effigie d'ASTRO 7605 et de ses commanditaires, dans le cadre de HackClub OnBoard/Arcade, en utilisant un circuit imprimé (PCB) en tant que médium artistique.
 
