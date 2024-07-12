@@ -1,2 +1,1 @@
 convert http://www.fondationoptimistestetherese.com/files/Depliant_bourse2024.pdf to svg logo
-convert imgs/ast.ttf U+E904 to SVG (finally managed to scrape it)
