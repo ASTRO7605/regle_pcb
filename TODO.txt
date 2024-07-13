@@ -1,2 +1,0 @@
-convert http://www.fondationoptimistestetherese.com/files/Depliant_bourse2024.pdf to svg logo
-Mitra logo (hollow) needs to be 0.2 mm wide for negative
